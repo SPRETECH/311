@@ -4,4 +4,13 @@ testing modification
 new lion king movie
 
 hello world
+<<<<<<< HEAD
+change 1
+=======
+
+
+testing
+done bro
+>>>>>>> c466168ff4020ce6abaa7fe050799ae8d650bd3b
+
 change 1
